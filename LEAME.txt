@@ -1,5 +1,0 @@
-El Sistema de adquisición de datos puede utilizarse siguiendo
-
-los pasos del documento pdf "Guía de inicio rápido" o empleando la
-
-interfaz gráfica del usuario incluída en este CD.
